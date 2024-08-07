@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270820442432",
+    "project_id": "proctorapp-412303",
+    "storage_bucket": "proctorapp-412303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270820442432:android:cd38208cabbae1b7ac3aa5",
+        "android_client_info": {
+          "package_name": "com.example.proctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnziMRWzjXE6PRMW2Ntm5JHP9ZLbrUegU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

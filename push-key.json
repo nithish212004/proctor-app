@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proctorapp-412303",
+  "private_key_id": "5346ef17cebd13e8dfd7e06ef1b25ac13b4bab6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC04FyG6tZoJzeq\nCbp7Lskj/QJbY2+2+QFDb6jS6XTF05JVgseZaiohgrS4eyq0odieAgJFMZA6IvK7\nVMzcknUUKJKqOv+c6kTcBX88BqNMAJOhHK35dWGInqE6x6cnNCGUzoiVCR4+zWoN\nIhUPyJ4di6bfEQkBcZAz09IT3FOC+qtn3Iulg0i36XYeLZH85wjlweLlC9VkhR/d\nkkwySVC+ZIgpS+Y3uosOJ1SEiousp+dJk7cyM0uf/JrWGzx4+9Yzgdb+vsMcx6W7\nc/+rsICzg8LsLUUZZrQiY8VTb/jFWNzVU5aGjFgGVDQClAn8KWfUKm3hToMli+HO\nF/nVJPUtAgMBAAECggEAK4vtstzEkHBKrkEn2KLfsa6m+94hhgWGmJgAJwEmSD+C\n9lvlVqnw6T746AZdNn5VstrsdYC0hs6lrlTA+qS3E8qd3uaT5lEfkXIwWwEFHRXx\ndQM83nd0ayo3ynlJZL6gDB26U9lNYxTc4LsRI4rrCFV4MDG/f426CERJylbL81ci\n8IUyZtnmp7SrC1NBoabd8wq88pfwQJhq9A1BR9P5tSsrcW64gZkIjcObHM3NvLGf\nF27KbwtUsiMLkv4yG0Li++QyvNd9c7JhXELrOzUKbaPx49s2zPq7q277Ndcrks7E\npRE1F1goOqDDYcdTHvWnNdwEjddooOO416wj2cWqEQKBgQDoxyzaTlwAgxAAKADy\nwBhSfs7vrDlzzAM92wERKNqINAFzdvRc8mvg7KsFRdzrRrz819UXwnxRgloW9CMo\nH+mcGAJ4bWvDYmYsxrM3ArA6rGSXNWsmdFi8Y2oZ7a1eU1pm/vN4fwqvbll2EjyF\ntq7m2I8qRSZLK7gTfxA2AYqAcQKBgQDG67EPmiIFYvvSLP5Ft+OrWbXmb3kaM6N+\n9Syili7xJin5wfWzhfJOXcIktGc1wIo09+K3mQ89jhCvy2+7cckssnV3UWxFw4KM\nzQOKiYMmNDA6Bf2gO9HMqpDlJhRai0RMBT5OYOrtqZAzgfHL6F4guoZdI1bYaR/P\nwzZ77GcefQKBgEgrkJVynAWwnOJfhMO+mQviswgODpX/V7Xy06bdUrvN2/FPnT3A\nD4BiADgXTAJKIUgHJtNCAkdHMeVR9iB3nHc/3mw2CKZAOMuDI4dXtwnJ7zoOXtVC\nV0y5SekWDp1jHHE4dIYUZVy0ytnXl5ohZKK/28tQOyotONoamA0WdzmRAoGACil4\nPifNnSDVZINP6hfe1Z4boM4JDcGdlJrJ0PSDKWadtlimSKmLG13G0UE2FJTlepc/\nScnT8X0UdSabaqQBdvsW7SWHtniqbq76g1VLEeSQoiY0Mr9blG0SQeKUH5wFvSx3\nZmGlHscOytLUm2ofhOSCgLeRdDTKnz6FxgbprbECgYAeof6YSllAO+QlZ8kX3DxP\nE7P8TVRgxlVwmVB1XoWeduddAFNNt++67XLJM3jvx6tU9YijdGnxAK4r1zDRu+M6\nPPLz+hC7/s8+cLf65h3zOmHKvE0bWYZ/1nFvQnjVZiMyLS65FB3CMCwlZr/O1Okk\nNxvSCbVxiBVnTcV898R4IQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3jf6l@proctorapp-412303.iam.gserviceaccount.com",
+  "client_id": "104172816040136281782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3jf6l%40proctorapp-412303.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
